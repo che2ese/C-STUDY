@@ -1,0 +1,5 @@
+﻿  주사위 모델링.cpp
+C:\Users\kris1\OneDrive\바탕 화면\3-2학기\c언어\주사위\주사위 모델링.cpp(166,21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kris1\OneDrive\바탕 화면\3-2학기\c언어\주사위\주사위 모델링.cpp(166,16): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kris1\OneDrive\바탕 화면\3-2학기\c언어\주사위\주사위 모델링.cpp(166,11): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  주사위.vcxproj -> C:\Users\kris1\OneDrive\바탕 화면\3-2학기\c언어\주사위\bin\x64\주사위.exe
