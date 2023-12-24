@@ -1,0 +1,15 @@
+# dice.mtl 파일
+# Wavefront MTL exported by EgTools
+# http://gaia.dongguk.edu 
+
+# 재질의 이름
+newmtl Dice
+
+# (주변광,난반사,전반사) 계수
+Ka 0.20000 0.20000 0.20000
+Kd 0.70000 0.70000 0.70000
+Ks 0.70000 0.70000 0.70000
+
+# 텍스처 파일 이름
+map_Kd dice.jpg
+
