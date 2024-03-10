@@ -10,13 +10,13 @@
 ## 필드와 프로퍼티
 
  // 일반적인 필드 예
-        int field = 1;          // 4 바이트 정수
-        long field1 = 11;       // 8 바이트 정수
-        char field2 = 'a';      // 2 바이트 유니코드 문자
-        float field3 = 1.1f;    // 4 바이트 실수
-        double field4 = 1.1;    // 8 바이트 실수
-        string field5 = "aaaa"; // 가변 사이즈 문자열
-        bool field6 = true;
+     int field = 1;          // 4 바이트 정수
+     long field1 = 11;       // 8 바이트 정수
+     char field2 = 'a';      // 2 바이트 유니코드 문자
+     float field3 = 1.1f;    // 4 바이트 실수
+     double field4 = 1.1;    // 8 바이트 실수
+     string field5 = "aaaa"; // 가변 사이즈 문자열
+     
 
  // 일반적인 프로퍼티 예
 
