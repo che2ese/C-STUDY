@@ -17,7 +17,7 @@
      float field3 = 1.1f;    // 4 바이트 실수
      double field4 = 1.1;    // 8 바이트 실수
      string field5 = "aaaa"; // 가변 사이즈 문자열
-     ```
+```
 
  // 일반적인 프로퍼티 예
 
