@@ -1,0 +1,8 @@
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\bin\Debug\interfacetest1.exe.config
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\bin\Debug\interfacetest1.exe
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\bin\Debug\interfacetest1.pdb
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\obj\Debug\interfacetest1.csproj.AssemblyReference.cache
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\obj\Debug\interfacetest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\obj\Debug\interfacetest1.csproj.CoreCompileInputs.cache
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\obj\Debug\interfacetest1.exe
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest1\obj\Debug\interfacetest1.pdb

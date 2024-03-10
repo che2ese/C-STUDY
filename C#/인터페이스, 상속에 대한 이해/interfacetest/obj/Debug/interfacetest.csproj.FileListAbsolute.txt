@@ -1,0 +1,3 @@
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest\obj\Debug\interfacetest.csproj.AssemblyReference.cache
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest\obj\Debug\interfacetest.csproj.SuggestedBindingRedirects.cache
+C:\Users\kris1\OneDrive\바탕 화면\C#\인터페이스, 상속에 대한 이해\interfacetest\obj\Debug\interfacetest.csproj.CoreCompileInputs.cache

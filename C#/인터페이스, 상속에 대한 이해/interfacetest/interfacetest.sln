@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfacetest", "interfacetest.csproj", "{8C0B2E44-4E26-4B9F-B8FA-2802DCB08AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfacetest1", "..\interfacetest1\interfacetest1.csproj", "{497A66E8-F808-4F85-9CD9-7BCEF4617656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0B2E44-4E26-4B9F-B8FA-2802DCB08AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0B2E44-4E26-4B9F-B8FA-2802DCB08AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0B2E44-4E26-4B9F-B8FA-2802DCB08AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0B2E44-4E26-4B9F-B8FA-2802DCB08AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497A66E8-F808-4F85-9CD9-7BCEF4617656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497A66E8-F808-4F85-9CD9-7BCEF4617656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497A66E8-F808-4F85-9CD9-7BCEF4617656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497A66E8-F808-4F85-9CD9-7BCEF4617656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B74E5C8-C9F5-49E0-9CDF-CCF2EB791C43}
+	EndGlobalSection
+EndGlobal
