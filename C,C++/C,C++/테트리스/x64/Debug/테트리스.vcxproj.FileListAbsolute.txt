@@ -1,0 +1,2 @@
+C:\Users\kris1\OneDrive\바탕 화면\3-2학기\c언어\테트리스\x64\Debug\테트리스.exe
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\테트리스\x64\Debug\테트리스.exe
