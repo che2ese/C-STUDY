@@ -1,7 +1,0 @@
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\배열, 리스트 등 자료구조나 반복문에 대한 이해\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\배열, 리스트 등 자료구조나 반복문에 대한 이해\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\배열, 리스트 등 자료구조나 반복문에 대한 이해\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\배열, 리스트 등 자료구조나 반복문에 대한 이해\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\배열, 리스트 등 자료구조나 반복문에 대한 이해\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\배열, 리스트 등 자료구조나 반복문에 대한 이해\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\배열, 리스트 등 자료구조나 반복문에 대한 이해\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
