@@ -1,7 +1,0 @@
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\델리게이트에 대한 이해\Delegate\bin\Debug\Delegate.exe.config
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\델리게이트에 대한 이해\Delegate\bin\Debug\Delegate.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\델리게이트에 대한 이해\Delegate\bin\Debug\Delegate.pdb
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\델리게이트에 대한 이해\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\델리게이트에 대한 이해\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\델리게이트에 대한 이해\Delegate\obj\Debug\Delegate.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\델리게이트에 대한 이해\Delegate\obj\Debug\Delegate.pdb
