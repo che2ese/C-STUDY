@@ -48,7 +48,8 @@ namespace WinFormKeyBoard
                     break;
             }
         }
-
+        
+        // 나머지 키들
         private void Form1_KeyUp(object sender, KeyEventArgs e)
         {
             MessageBox.Show(e.KeyCode.ToString());
