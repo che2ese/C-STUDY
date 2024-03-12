@@ -1,0 +1,7 @@
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\키보드 입력을 받아 동작하는 프로그램\KeyBoard\bin\Debug\KeyBoard.exe.config
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\키보드 입력을 받아 동작하는 프로그램\KeyBoard\bin\Debug\KeyBoard.exe
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\키보드 입력을 받아 동작하는 프로그램\KeyBoard\bin\Debug\KeyBoard.pdb
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\키보드 입력을 받아 동작하는 프로그램\KeyBoard\obj\Debug\KeyBoard.csproj.AssemblyReference.cache
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\키보드 입력을 받아 동작하는 프로그램\KeyBoard\obj\Debug\KeyBoard.csproj.CoreCompileInputs.cache
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\키보드 입력을 받아 동작하는 프로그램\KeyBoard\obj\Debug\KeyBoard.exe
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\키보드 입력을 받아 동작하는 프로그램\KeyBoard\obj\Debug\KeyBoard.pdb
