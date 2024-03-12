@@ -1,7 +1,0 @@
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\Thread,Task\Thread,Task\bin\Debug\Thread,Task.exe.config
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\Thread,Task\Thread,Task\bin\Debug\Thread,Task.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\Thread,Task\Thread,Task\bin\Debug\Thread,Task.pdb
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\Thread,Task\Thread,Task\obj\Debug\Thread,Task.csproj.AssemblyReference.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\Thread,Task\Thread,Task\obj\Debug\Thread,Task.csproj.CoreCompileInputs.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\Thread,Task\Thread,Task\obj\Debug\Thread,Task.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\Thread,Task\Thread,Task\obj\Debug\Thread,Task.pdb
