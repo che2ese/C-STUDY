@@ -1,7 +1,0 @@
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\예외처리\TryCatch\bin\Debug\TryCatch.exe.config
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\예외처리\TryCatch\bin\Debug\TryCatch.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\예외처리\TryCatch\bin\Debug\TryCatch.pdb
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\예외처리\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\예외처리\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\예외처리\TryCatch\obj\Debug\TryCatch.exe
-C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\예외처리\TryCatch\obj\Debug\TryCatch.pdb
