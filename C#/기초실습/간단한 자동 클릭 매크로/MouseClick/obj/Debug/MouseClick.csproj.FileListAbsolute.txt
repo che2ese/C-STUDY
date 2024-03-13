@@ -1,0 +1,10 @@
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\bin\Debug\MouseClick.exe.config
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\bin\Debug\MouseClick.exe
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\bin\Debug\MouseClick.pdb
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\obj\Debug\MouseClick.csproj.AssemblyReference.cache
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\obj\Debug\MouseClick.Form1.resources
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\obj\Debug\MouseClick.Properties.Resources.resources
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\obj\Debug\MouseClick.csproj.GenerateResource.cache
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\obj\Debug\MouseClick.csproj.CoreCompileInputs.cache
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\obj\Debug\MouseClick.exe
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\간단한 자동 클릭 매크로\MouseClick\obj\Debug\MouseClick.pdb
