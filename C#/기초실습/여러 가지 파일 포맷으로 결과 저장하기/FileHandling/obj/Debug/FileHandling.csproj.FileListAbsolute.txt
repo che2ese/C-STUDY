@@ -1,0 +1,7 @@
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\여러 가지 파일 포맷으로 결과 저장하기\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\여러 가지 파일 포맷으로 결과 저장하기\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\여러 가지 파일 포맷으로 결과 저장하기\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\여러 가지 파일 포맷으로 결과 저장하기\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\여러 가지 파일 포맷으로 결과 저장하기\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\여러 가지 파일 포맷으로 결과 저장하기\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\김민성\OneDrive - dgu.ac.kr\바탕 화면\C-STUDY\C#\여러 가지 파일 포맷으로 결과 저장하기\FileHandling\obj\Debug\FileHandling.pdb
