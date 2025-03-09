@@ -1,1 +1,0 @@
-D:\C-STUDY\C++\DataStructure\Maze\x64\Debug\Maze.exe
